@@ -1,0 +1,13 @@
+.button-item {
+  background-color: transparent;
+  border: #223a5f;
+}
+.image-icon {
+  height: 150px;
+  width: 150px;
+  background-color: transparent;
+}
+.list-container {
+  margin: 10px;
+  background-color: transparent;
+}
